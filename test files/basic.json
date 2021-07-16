@@ -1,0 +1,12 @@
+{
+    "Numbers" : [ 1, 2, 5, 0.5, 3.07 ],
+    "Strings" : [ "Hello", "how", "are", "you", "backspaces \\ \\ \\ \" \"" ],
+    "Bool" : [ true, false, true, false ],
+    "null" : [ null, null, null ],
+    "single values - object": {
+        "Number" : 1,
+        "String" : "Hello",
+        "Bool" : true,
+        "null" : null
+    }
+}
